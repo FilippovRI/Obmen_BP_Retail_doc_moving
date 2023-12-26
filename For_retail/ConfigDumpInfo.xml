@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.14">
+	<ConfigVersions>
+		<Metadata name="Configuration.ОбменДаннымиСБухгалтерией" id="ca302d87-2c94-41e2-9c75-18251aa37f14" configVersion="8fb52654d43353d5dfc989cb9ca9c2d35d8d5f4f"/>
+		<Metadata name="DataProcessor.JCI_СинхронизацияПеремещений" id="a4ae8c5b-bd26-48ba-b3ce-4fc5f6f6b3bf" configVersion="06ae1c455a1252c3aeac1c4a0cc420b906c4082f"/>
+		<Metadata name="DataProcessor.JCI_СинхронизацияПеремещений.Form.Форма" id="303318f4-8abe-4e72-b5cc-7d1a02a6463f" configVersion="919201ce907e413654fdad2cbba47c84142159f9"/>
+		<Metadata name="DataProcessor.JCI_СинхронизацияПеремещений.Form.Форма.Form" id="303318f4-8abe-4e72-b5cc-7d1a02a6463f.0" configVersion="5bb979bba0125e79582361e5fad0353013517789"/>
+		<Metadata name="DataProcessor.JCI_СинхронизацияПеремещений.Template.ПравилаВыгрузки" id="0b202437-8217-47a6-a028-f83597fabebd" configVersion="e5d3bbe79e83d6e1b706b79309523b773f70174c"/>
+		<Metadata name="DataProcessor.JCI_СинхронизацияПеремещений.Template.ПравилаВыгрузки.Template" id="0b202437-8217-47a6-a028-f83597fabebd.0" configVersion="e220bc87784bf127b4c43336dbc4d4e9361810cd"/>
+		<Metadata name="Language.Русский" id="6be50d1c-5e92-4a9d-b8ba-de95dde0ac51" configVersion="bad6430ebd3ea5ebce7c15fee420c9fb979bbff1"/>
+		<Metadata name="Role.JCI_ОсновнаяРоль" id="c39c4cb3-1083-41f6-9e89-02d86f7a551c" configVersion="8869f285212c4ae6fc0168f39c75ea5ad036f8dc"/>
+		<Metadata name="Subsystem.Обмен_Перемещениями" id="66c3ca32-65b2-4de6-a9a6-26daac36ccfc" configVersion="7dcf14a69eb589c018a88426543c6c824a5a1557"/>
+		<Metadata name="Subsystem.Обмен_Перемещениями.CommandInterface" id="66c3ca32-65b2-4de6-a9a6-26daac36ccfc.1" configVersion="fdaec039eea90396e8275a4185f01ff2ce9f09af"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
